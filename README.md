@@ -12,7 +12,8 @@
 - 💀 This repo was created by someone who has since left the country… or the planet.
 - 🔍 The documentation for my code is in an extinct language and missing some pages.
 - 🤯 My code was written on a Friday… at 4:59 PM.
-- 🙏 Dear future me, I'm sorry. ~ Former Me
+- 🙏 Dear future me, I'm sorry.
+   ~ Former Me
 
 
 
