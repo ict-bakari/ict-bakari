@@ -1,10 +1,10 @@
 
 - 👋 Hi, I’m @ict-bakari
+- 📫 How to reach me ... ictbakari@gmail.com
+<!---
+- ⚡ Fun fact: ... it's all Internet of Threats
 - 👀 I’m interested in ... Assembly Language & Machine Code
 - 💞️ I’m looking to collaborate on ... Open Source Projects
-- 📫 How to reach me ... ictbakari@gmail.com
-- ⚡ Fun fact: ... it's all Internet of Threats
-
 - 🧠 Caffeine & Python.
 - 🚀 Writes code that even AI can't understand.
 - 👀 It just works… and we don’t know why.
@@ -19,7 +19,7 @@
 - ~ Former Me
 
 
-<!---
+
 ict-bakari/ict-bakari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
