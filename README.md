@@ -13,7 +13,7 @@
 - 🔍 The documentation for my code is in an extinct language and missing some pages.
 - 🤯 My code was written on a Friday… at 4:59 PM.
 - 🙏 Dear future me, I'm sorry.
-   ~ Former Me
+- ~ Former Me
 
 
 
